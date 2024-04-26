@@ -22,11 +22,11 @@
 - **Predictive Modeling** 
 - **Data Visualization**
 - **Object Oriented Programming (OOP)**
-- **Time Series Forecasting**
-- **Git** 
+- **Time Series Forecasting** 
 - **Advanced Excel** 
 - **Web Scraping** 
 - **Statistics**
+- **Git** 
 
 ### Commitment to Innovation:
 - **Continuous Learning:** Staying at the forefront of emerging technologies and methodologies.
