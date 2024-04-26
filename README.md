@@ -1,3 +1,5 @@
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif">
+
 # 📊 Welcome to the World of Data Wizardry! 🧙‍♂️
 
 ## Hey there! I'm Vamshi Raghuram G, a Data scientist. 
