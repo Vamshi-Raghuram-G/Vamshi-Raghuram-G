@@ -17,6 +17,7 @@
 - **Machine Learning**  
 - **Tableau**
 - **Power BI**
+- **MongoDB**
 - **Exploratory Data Analysis (EDA)** 
 - **Data Extraction & Cleaning**
 - **Predictive Modeling** 
