@@ -19,7 +19,7 @@
 - **Power BI**
 - **MongoDB**
 - **Exploratory Data Analysis (EDA)** 
-- **Data Extraction & Cleaning**
+- **Data Wrangling**
 - **Predictive Modeling** 
 - **Data Visualization**
 - **Object Oriented Programming (OOP)**
