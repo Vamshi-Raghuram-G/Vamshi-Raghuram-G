@@ -5,10 +5,10 @@
 ## Hey there! I'm Vamshi Raghuram G, a Data scientist. 
 
 ## 🚀 What I Do
-- **Explore:** Dive deep into data to uncover hidden patterns and insights.
-- **Model:** Craft machine learning models to predict, classify, and recommend.
-- **Visualize:** Bring data to life with captivating visualizations and dashboards.
-- **Optimize:** Fine-tune algorithms and processes for maximum efficiency.
+- **Explore: Dive deep into data to uncover hidden patterns and insights.**
+- **Model: Craft machine learning models to predict, classify, and recommend.**
+- **Visualize: Bring data to life with captivating visualizations and dashboards.**
+- **Optimize: Fine-tune algorithms and processes for maximum efficiency.**
 
 ## 🛠️ Skills & Technologies
 
@@ -30,10 +30,10 @@
 - **Git** 
 
 ### Commitment to Innovation:
-- **Continuous Learning:** Staying at the forefront of emerging technologies and methodologies.
-- **Innovative Solutions:** Delivering impactful solutions that drive organizational growth.
+- **Continuous Learning: Staying at the forefront of emerging technologies and methodologies.**
+- **Innovative Solutions: Delivering impactful solutions that drive organizational growth.**
 
 ## 💬 Let's Connect:
 - **💼 LinkedIn:** https://www.linkedin.com/in/vamshi-raghuram-g
 
-Whether you're a fellow wizard or a curious soul, let's brew some data magic together! 🌟🔮
+**Whether you're a fellow wizard or a curious soul, let's brew some data magic together! 🌟🔮**
