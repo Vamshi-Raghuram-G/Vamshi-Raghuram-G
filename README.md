@@ -1,4 +1,4 @@
-
+![Masthead](https://www.pacific-systems.co.jp/img/index_img01.gif)
 
 # 📊 Welcome to the World of Data Wizardry! 🧙‍♂️
 
