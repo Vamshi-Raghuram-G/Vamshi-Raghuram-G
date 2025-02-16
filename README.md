@@ -1,6 +1,6 @@
 # 📊 Welcome to the World of Data Wizardry! 🧙‍♂️
 
-## Hey there! I'm Vamshi Raghuram G, a Data scientist. 
+## Hey there! I'm Vamshi Raghuram, a Data scientist. 
 
 ## 🚀 What I Do
 - **Explore: Dive deep into data to uncover hidden patterns and insights.**
