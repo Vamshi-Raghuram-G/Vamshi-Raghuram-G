@@ -1,5 +1,3 @@
-![Masthead](https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif)
-
 # 📊 Welcome to the World of Data Wizardry! 🧙‍♂️
 
 ## Hey there! I'm Vamshi Raghuram G, a Data scientist. 
@@ -36,4 +34,4 @@
 ## 💬 Let's Connect:
 - **💼 LinkedIn:** https://www.linkedin.com/in/vamshi-raghuram-g
 
-**Whether you're a fellow wizard or a curious soul, let's brew some data magic together! 🌟🔮**
+![Masthead](https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif)
