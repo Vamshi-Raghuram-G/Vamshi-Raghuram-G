@@ -32,6 +32,8 @@
 - **Innovative Solutions: Delivering impactful solutions that drive organizational growth.**
 
 ## 💬 Let's Connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/baraa-khatib-salkini)(https://www.linkedin.com/in/vamshi-raghuram-g)
+
 - **💼 LinkedIn:** https://www.linkedin.com/in/vamshi-raghuram-g
 
 ![Masthead](https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif)
