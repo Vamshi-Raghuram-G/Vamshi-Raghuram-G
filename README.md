@@ -1,5 +1,3 @@
-# 📊 Welcome to the World of Data Wizardry! 🧙‍♂️
-
 ## Hey there! I'm Vamshi Raghuram, a Data scientist. 
 
 ## 🚀 What I Do
