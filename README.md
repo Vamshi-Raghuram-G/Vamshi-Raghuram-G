@@ -15,6 +15,7 @@
 - **Tensorflow** 
 - **Tableau**
 - **Power BI**
+- **IBM SPSS Statistics**
 - **MongoDB**
 - **Exploratory Data Analysis** 
 - **Data Wrangling**
