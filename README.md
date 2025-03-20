@@ -10,19 +10,23 @@
 
 - **Python**  
 - **SQL**
-- **Machine Learning**  
+- **Machine Learning**
+- **Deep Learning**
+- **Tensorflow** 
 - **Tableau**
 - **Power BI**
 - **MongoDB**
-- **Exploratory Data Analysis (EDA)** 
+- **Exploratory Data Analysis** 
 - **Data Wrangling**
 - **Predictive Modeling** 
 - **Data Visualization**
-- **Object Oriented Programming (OOP)**
-- **Time Series Forecasting** 
+- **Object Oriented Programming**
+- **Time Series Forecasting**
+- **Microsoft Azure** 
 - **Advanced Excel** 
 - **Web Scraping** 
 - **Statistics**
+- **Jira**
 - **Git** 
 
 ### Commitment to Innovation:
