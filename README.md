@@ -19,7 +19,6 @@
 - **MongoDB**
 - **Exploratory Data Analysis** 
 - **Data Wrangling**
-- **Predictive Modeling** 
 - **Data Visualization**
 - **Object Oriented Programming**
 - **Time Series Forecasting**
