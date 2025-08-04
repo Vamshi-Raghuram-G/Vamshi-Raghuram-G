@@ -29,7 +29,7 @@
 - **Jira**
 - **Git** 
 
-### Commitment to Innovation:
+## Commitment to Innovation:
 - **Continuous Learning: Staying at the forefront of emerging technologies and methodologies.**
 - **Innovative Solutions: Delivering impactful solutions that drive organizational growth.**
 
