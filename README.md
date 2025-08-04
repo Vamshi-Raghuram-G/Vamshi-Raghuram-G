@@ -33,6 +33,6 @@
 - **Continuous Learning: Staying at the forefront of emerging technologies and methodologies.**
 - **Innovative Solutions: Delivering impactful solutions that drive organizational growth.**
 
-## 💬 Let's Connect:
+## Find Me Online:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamshi-raghuram-g)
 [![Portfolio](https://img.shields.io/badge/Portfolio-28A745?style=for-the-badge)](https://vamshi-raghuram-g.github.io/) 
