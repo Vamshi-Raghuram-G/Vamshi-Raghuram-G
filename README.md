@@ -1,4 +1,4 @@
-## Hey there! I'm Vamshi Raghuram, a Data scientist. 
+## Hey there! I'm Vamshi Raghuram.
 
 ## 🚀 What I Do
 - **Explore: Dive deep into data to uncover hidden patterns and insights.**
