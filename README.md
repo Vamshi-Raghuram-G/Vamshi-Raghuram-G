@@ -1,12 +1,8 @@
 ## Hey there! I'm Vamshi Raghuram.
 
-## 🚀 What I Do
-- **Explore: Dive deep into data to uncover hidden patterns and insights.**
-- **Model: Craft machine learning models to predict, classify, and recommend.**
-- **Visualize: Bring data to life with captivating visualizations and dashboards.**
-- **Optimize: Fine-tune algorithms and processes for maximum efficiency.**
+**I’m a data professional who transforms raw data into strategic assets. My passion lies in sculpting insights from complex datasets, building predictive models that drive decisions, and creating visualizations that tell a compelling story. I bridge the gap between technical execution and business impact, turning unseen patterns into strategies that ignite change.**
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
 - **Python**  
 - **SQL**
@@ -33,6 +29,10 @@
 - **Continuous Learning: Staying at the forefront of emerging technologies and methodologies.**
 - **Innovative Solutions: Delivering impactful solutions that drive organizational growth.**
 
-## Find Me Online:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamshi-raghuram-g)
-[![Portfolio](https://img.shields.io/badge/Portfolio-28A745?style=for-the-badge)](https://vamshi-raghuram-g.github.io/) 
+## Let's Connect
+Let's build something amazing together!
+
+<p align="center">
+<a href="https://www.linkedin.com/in/vamshi-raghuram-g" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://vamshi-raghuram-g.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-64FFDA?style=for-the-badge&logo=react&logoColor=black" alt="Portfolio"/></a>
+</p>
